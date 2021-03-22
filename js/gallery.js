@@ -6,6 +6,12 @@ function load(){
     return photoloader.loadRessource(photoboxDepart);
 }
 
+function prev(){}
+
+function next(){}
+
 export default{
-    load
+    load,
+    prev,
+    next
 }
