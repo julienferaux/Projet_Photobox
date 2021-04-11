@@ -1,6 +1,7 @@
 import photoloader from "./photoloader.js";
 import gallery from "./gallery.js";
 import ui from "./gallery_ui.js";
+import load from "./lightbox.js";
 
 document.querySelector('#load_gallery')
   .addEventListener('click',  e => {

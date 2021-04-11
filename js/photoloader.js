@@ -31,5 +31,5 @@ function loadRessource(uri){
 }
 
 export default{
-    loadRessource
+    loadRessource: loadRessource
 }
